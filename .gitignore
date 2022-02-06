@@ -2,6 +2,8 @@
 *.rar
 *.swp
 *.zip
+rar/*
+rar*
 
 GeNeVA-v1/
 

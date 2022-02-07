@@ -18,10 +18,13 @@ iclevr_objects: 'data/iCLEVR/objects.txt'
 iclevr_vocab: 'data/iCLEVR/vocab.txt'
 
 crim_data_source: '/home/ee/btech/ee1180542/scratch/poorva/NSIM-Training/NSIM-without-paramask/Neuro-Symbolic-Image-Manipulator/dataset/clevr-dataset-gen/CRIM_dataset_splits/'
-crim_hdf5_folder: 'data/crim/'
-crim_objects: 'data/iCLEVR/objects.txt'
-crim_vocab: 'data/iCLEVR/vocab.txt'
+crim_hdf5_folder: 'data/CRIM/'
+crim_objects: 'data/CRIM/objects.txt'
+crim_vocab: 'data/CRIM/vocab.txt'
+crim_glove_output: 'data/CRIM/glove_crim.txt'
+crim_vocab_output: 'data/CRIM/vocab.txt'
+crim_vocab: 'data/CRIM/vocab.txt'
 
 glove_source: 'raw-data/GloVe/glove.840B.300d.txt'
 
-glove_output: 'data/CoDraw_iCLEVR/glove_codraw_iclevr.txt'
+glove_output: 'data/CRIM/glove_crim.txt'
